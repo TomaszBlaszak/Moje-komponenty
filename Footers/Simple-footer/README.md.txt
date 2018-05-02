@@ -1,0 +1,1 @@
+Prosty projekt stopki, która jest przyklejona do do³u strony internetowej.
